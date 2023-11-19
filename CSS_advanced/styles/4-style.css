@@ -17,6 +17,10 @@
   a {
           color: var(--text-color);
   }
+
+  body {
+    font-family: var(--font-family-base);
+  }
   
   h1,
   h2,
